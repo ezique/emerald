@@ -29,6 +29,6 @@ defaults:
 version: "1.1.0"
 
 # Options
-custom_header: ture
-custom_nav_footer: ture
+custom_header: false
+custom_nav_footer: false
 reverse: false
